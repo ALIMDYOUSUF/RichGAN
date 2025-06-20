@@ -1,8 +1,8 @@
-# RichGAN: A Rich-Attention Embedding Framework for Fine-Grained Semantic Alignment in Generative Adversarial Training
+![Generated images by using 10 and 5 captions on CUB-200 and MS-COCO test set](https://github.com/user-attachments/assets/70e41c9f-d2ca-4cb3-9d9a-472ac0b1da54)# RichGAN: A Rich-Attention Embedding Framework for Fine-Grained Semantic Alignment in Generative Adversarial Training
 
-![Python 3.8](https://img.shields.io/badge/python-3.8-green.svg)
-![Packagist](https://img.shields.io/badge/Pytorch-1.9.0-red.svg)
-![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
+![RichGAN-based Figure](https://github.com/user-attachments/assets/ddb20595-19ba-4e71-9b58-0fa1b6cb68e5)
+
+![RAEM Figure](https://github.com/user-attachments/assets/5524b81b-c955-42c8-b6e6-fc8f8bfd7dab)
 
 
 

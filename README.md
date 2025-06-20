@@ -6,9 +6,6 @@
 
 
 
-
-<img src="framework.png" width="787px" height="247px"/>
-
 ---
 
 ## Requirements
@@ -19,7 +16,7 @@
 
 Clone this repo.
 ```
-git clone https://github.com/tobran/DMF-GAN
+git clone [https://github.com/tobran/DMF-GAN](https://github.com/ALIMDYOUSUF/RichGAN)
 pip install -r requirements.txt
 cd RichGAN/code/
 ```
@@ -43,9 +40,10 @@ For coco dataset: python main.py --cfg cfg/coco.yml
 
 
 **Reference**
+-  [[code]](https://github.com/xueqinxiang/DMF-GAN)
+-  [[code]](https://github.com/senmaoy/RAT-GAN)
+-  [[code]](https://github.com/hanzhanggit/StackGAN-v2)
+-  [[code]](https://github.com/taoxugit/AttnGAN)
 
-- [StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks](https://arxiv.org/abs/1710.10916) [[code]](https://github.com/hanzhanggit/StackGAN-v2)
-- [AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_AttnGAN_Fine-Grained_Text_CVPR_2018_paper.pdf) [[code]](https://github.com/taoxugit/AttnGAN)
-- [DM-GAN: Realistic Image Synthesis with Stacked Generative Adversarial Networks](https://arxiv.org/abs/1904.01310) [[code]](https://github.com/MinfengZhu/DM-GAN)
-- [DF-GAN: A Simple and Effective Baseline for Text-to-Image Synthesis](https://openaccess.thecvf.com/content/CVPR2022/papers/Tao_DF-GAN_A_Simple_and_Effective_Baseline_for_Text-to-Image_Synthesis_CVPR_2022_paper.pdf) [[code]](https://github.com/tobran/DF-GAN)
-- [Recurrent Affine Transformation for Text-to-image Synthesis](https://arxiv.org/abs/2204.10482) [[code]](https://github.com/senmaoy/RAT-GAN)
+
+

@@ -9,9 +9,9 @@
 ---
 
 ## Requirements
-- python 3.8
-- Pytorch 1.9
-- At least 1x24GB NVIDIA GPU
+- python 3.12
+- Pytorch 2.2.0
+- NVIDIA RTX 4070-Ti GPUs 
 ## Installation
 
 Clone this repo.
@@ -40,10 +40,10 @@ For coco dataset: python main.py --cfg cfg/coco.yml
 
 
 **Reference**
--  [[code]](https://github.com/xueqinxiang/DMF-GAN)
--  [[code]](https://github.com/senmaoy/RAT-GAN)
--  [[code]](https://github.com/hanzhanggit/StackGAN-v2)
--  [[code]](https://github.com/taoxugit/AttnGAN)
+-  [[code]](https://github.com/xueqinxiang/DMF-GAN) - DMF-GAN
+-  [[code]](https://github.com/senmaoy/RAT-GAN) - RAT-GAN
+-  [[code]](https://github.com/hanzhanggit/StackGAN-v2) - StackGAN-v2
+-  [[code]](https://github.com/taoxugit/AttnGAN) - AttnGAN
 
 
 

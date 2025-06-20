@@ -40,10 +40,10 @@ For coco dataset: python main.py --cfg cfg/coco.yml
 
 
 **Reference**
--  [[code]](https://github.com/xueqinxiang/DMF-GAN) - DMF-GAN
--  [[code]](https://github.com/senmaoy/RAT-GAN) - RAT-GAN
--  [[code]](https://github.com/hanzhanggit/StackGAN-v2) - StackGAN-v2
--  [[code]](https://github.com/taoxugit/AttnGAN) - AttnGAN
+-  [[code]](https://github.com/xueqinxiang/DMF-GAN) (DMF-GAN)
+-  [[code]](https://github.com/senmaoy/RAT-GAN) (RAT-GAN)
+-  [[code]](https://github.com/hanzhanggit/StackGAN-v2) (StackGAN-v2)
+-  [[code]](https://github.com/taoxugit/AttnGAN) (AttnGAN)
 
 
 

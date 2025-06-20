@@ -1,11 +1,11 @@
-# RichGAN
-[![License CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC4.0-blue.svg)](https://github.com/tobran/DF-GAN/blob/master/LICENSE.md)
+# RichGAN: A Rich-Attention Embedding Framework for Fine-Grained Semantic Alignment in Generative Adversarial Training
+
 ![Python 3.8](https://img.shields.io/badge/python-3.8-green.svg)
 ![Packagist](https://img.shields.io/badge/Pytorch-1.9.0-red.svg)
 ![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
-# DMF-GAN: Deep Multimodal Fusion Generative Adversarial Networks for Text-to-Image Synthesis
 
-Official Pytorch implementation for our paper [RichGAN: Deep Multimodal Fusion Generative Adversarial Networks for Text-to-Image Synthesis]
+
+
 
 <img src="framework.png" width="787px" height="247px"/>
 
@@ -21,7 +21,7 @@ Clone this repo.
 ```
 git clone https://github.com/tobran/DMF-GAN
 pip install -r requirements.txt
-cd DMF-GAN/code/
+cd RichGAN/code/
 ```
 
 ## Preparation
@@ -33,7 +33,7 @@ cd DMF-GAN/code/
 
 ## Training
   ```
-  cd DF-GAN/code/
+  cd RichGAN/code/
   ```
 ### Train the DF-GAN model
 For bird dataset: python main.py --cfg cfg/bird.yml
@@ -41,7 +41,6 @@ For bird dataset: python main.py --cfg cfg/bird.yml
 For coco dataset: python main.py --cfg cfg/coco.yml
 
 
-The code is released for academic research use only. For commercial use, please contact [Xueqin Xiang](xxueq@aliyun.com).
 
 **Reference**
 

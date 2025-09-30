@@ -1,4 +1,4 @@
-![Generated images by using 10 and 5 captions on CUB-200 and MS-COCO test set](https://github.com/user-attachments/assets/70e41c9f-d2ca-4cb3-9d9a-472ac0b1da54)# RichGAN: A Rich-Attention Embedding Framework for Fine-Grained Semantic Alignment in Generative Adversarial Training
+![Generated images by using 10 and 5 captions on CUB-200 and MS-COCO test set](https://github.com/user-attachments/assets/70e41c9f-d2ca-4cb3-9d9a-472ac0b1da54)# RichGAN: Rich Visual and Semantic Feature Alignment for Realistic Text-to-Image Synthesis 
 
 ![RichGAN-based Figure](https://github.com/user-attachments/assets/ddb20595-19ba-4e71-9b58-0fa1b6cb68e5)
 
